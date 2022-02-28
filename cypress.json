@@ -1,0 +1,7 @@
+{
+    "chromeWebSecurity": false,
+    "env": {
+    "std_user": "standard_user",
+    "pwd":"secret_sauce"
+}
+}
